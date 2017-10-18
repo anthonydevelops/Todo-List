@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://s3.amazonaws.com/s3.imagefinder.co/uploads/2016/04/08080020/unsplash-com-photo-1459706047544-bac915bf34b6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#mainTable {
+    margin: 10vh 50vw 10vh 5vw;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+
